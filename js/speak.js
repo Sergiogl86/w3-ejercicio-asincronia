@@ -24,3 +24,5 @@ const speak = (element, delay = 1000) => {
     }
   }, delay);
 };
+
+export default speak;
